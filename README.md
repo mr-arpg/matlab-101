@@ -1,5 +1,5 @@
 # matlab-101
-Simple Runge-Kutta Second Order method (Heun's Method) implemented in matlab
+Simple Runge-Kutta Second Order method (Heun's Method) for second order ODE implemented in matlab
 
 Context: Damped driven oscillator
 
