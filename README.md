@@ -1,8 +1,9 @@
-# matlab-101
-Simple Runge-Kutta Second Order method (Heun's Method) for second order ODE implemented in matlab
+Simple Runge-Kutta Second Order method (Heun's Method) for second order ODE implementation for MATLAB.
 
-Context: Damped driven oscillator
+**Context: Damped driven oscillator**
 
-![2º order ODE](equation.jpg "Damped driven oscillator equation")
+$$
+\frac{d^2x}{dt^2} + 2\omega_0\zeta \frac{dx}{dt} + \omega_0^2 x = \frac{1}{m} F \sin(\omega t)
+$$
 
-where zeta is the damping coefficient. (a bit blurry ik)
+where zeta is the damping coefficient. 
